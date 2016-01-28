@@ -1,0 +1,1 @@
+# pinta_obj
